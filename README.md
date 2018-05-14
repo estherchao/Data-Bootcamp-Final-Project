@@ -7,5 +7,5 @@ In particular, I have: </p>
 <p>Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden.</p>
 <p>I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.</p>
 
-<p>Project Description</p>
+<p><b>Project Description</b></p>
 <p>This project studies how on-field performance during the NFL post-season, specifically Superbowl wins, affect secondary market sales of NFL personal seat licenses (PSLs). PSLs are one-time fees that transfer stadium seat ownership rights from the team to the licensee, thus enabling the licensee to purchase season tickets. Teams only sell a fixed amount of seat licenses at face value. Since futher PSLs transactions take place on a secondary market, the effect of playoff wins on supply and demand is unclear. In order to meet increased demand, there must be a large group of fans willing to sell their own seat license rights. Post-seasons after playoff appearances and Superbowl wins will be analyzed and compared to trends found within season and non-win post-seasons.</p>
